@@ -56,7 +56,7 @@ button:hover{
     transform: translateY(-2px);
 }
 p{
-    margin-bottom: 10px;
+    font-weight: 500;
 }
 input{
 background: rgb(31, 32, 35);
@@ -72,4 +72,8 @@ input:focus{
     outline: none;
     box-shadow: none;
     border-color: rgb(235, 236, 239);
+}
+h2{
+    text-align: center;
+    padding-bottom: 10px;
 }
